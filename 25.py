@@ -1,4 +1,0 @@
-from fnmatch import *
-for x in range (0, 10**10, 1917):
-    if fnmatch(str(x),'3?12?14*7'):
-        print(x, x//1917)
